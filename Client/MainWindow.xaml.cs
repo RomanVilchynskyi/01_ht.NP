@@ -26,7 +26,7 @@ public partial class MainWindow : Window
         InitializeComponent();
     }
 
-    private async void Button_Click(object sender, RoutedEventArgs e)
+    private async void Search(object sender, RoutedEventArgs e)
     {
         string postalCode = txtZip.Text;  
         if (string.IsNullOrEmpty(postalCode))
