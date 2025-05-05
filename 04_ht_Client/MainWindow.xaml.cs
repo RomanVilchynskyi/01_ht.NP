@@ -64,7 +64,7 @@ public partial class MainWindow : Window
         }
     }
 
-    private void Send_Click(object sender, RoutedEventArgs e)
+    private void SendBtn(object sender, RoutedEventArgs e)
     {
         string name = namebox.Text;
         string text = messagebox.Text;
