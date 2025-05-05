@@ -20,7 +20,7 @@
 
         <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0,10,0,0">
             <TextBox Name="messagebox" Width="350" Height="25" Margin="0,0,10,0"/>
-            <Button Content="Send" Width="100" Click="Send_Click"/>
+            <Button Content="Send" Width="100" Click="SendBtn"/>
         </StackPanel>
         <ListBox Name="list" Grid.Row="2" Margin="0,5"/>
     </Grid>
