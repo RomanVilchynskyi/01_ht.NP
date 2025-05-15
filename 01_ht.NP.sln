@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_HTTP_Client", "08_HTTP_C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_HTTP_task", "08_HTTP_task\08_HTTP_task.csproj", "{4E3554A6-3D48-4EF5-AFE7-DD54795DBE73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_HTTP_ht", "08_HTTP_ht\08_HTTP_ht.csproj", "{4F17A232-7402-4875-961A-EF8CF925AAD9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{4E3554A6-3D48-4EF5-AFE7-DD54795DBE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E3554A6-3D48-4EF5-AFE7-DD54795DBE73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E3554A6-3D48-4EF5-AFE7-DD54795DBE73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F17A232-7402-4875-961A-EF8CF925AAD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F17A232-7402-4875-961A-EF8CF925AAD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F17A232-7402-4875-961A-EF8CF925AAD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F17A232-7402-4875-961A-EF8CF925AAD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
